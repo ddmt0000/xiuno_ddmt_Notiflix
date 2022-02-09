@@ -1,7 +1,7 @@
 {
     "name": "Notiflix信息通知",
-    "brief": "作者：等待明天<br>提供Notiflix信息通知能力<br>更新内容：<br>1.添加检测机制避免其他插件错误调用导致崩溃<br>更新到Notiflix3.1.0（注意：需要其他插件同步更新到最新版否则无法使用）",
-    "version": "1.2",
+    "brief": "作者：等待明天<br>提供Notiflix信息通知能力<br>更新内容：<br>更新到Notiflix3.2.4",
+    "version": "1.2.1",
     "bbs_version": "4.0",
     "installed": 1,
     "enable": 1,
